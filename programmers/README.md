@@ -10,8 +10,8 @@
 
 ## Level 3
 
-> [Level 3 문제 정리](./L3)
+> [Level 3 문제 정리](./Lv3)
 
 ## Level 4
 
-> [Level 4 문제 정리](./L4)
+> [Level 4 문제 정리](./Lv4)
