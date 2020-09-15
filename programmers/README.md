@@ -6,7 +6,7 @@
 
 ## Level 2
 
-> [Level 2 문제 정리](./L2)
+> [Level 2 문제 정리](./Lv2)
 
 ## Level 3
 
