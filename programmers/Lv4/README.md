@@ -1,4 +1,4 @@
-# Level 4 프로그래머스 알고리즘 문제
+# Level 4 알고리즘 문제
 
 ## Dynamic Programming
 
