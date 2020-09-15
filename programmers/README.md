@@ -2,7 +2,7 @@
 
 ## Level 1
 
-> [Level 1 문제 정리](./L1)
+> [Level 1 문제 정리](./Lv1)
 
 ## Level 2
 
